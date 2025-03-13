@@ -33,7 +33,7 @@ pip install -i https://test.pypi.org/simple/ pubmed-papers-fetcher
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Srujanakatla/python_fetchpaperproject
 cd pubmed-papers-fetcher
 ```
 
