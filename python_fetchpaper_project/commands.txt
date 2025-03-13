@@ -1,0 +1,9 @@
+pip install requests
+# Make pubmed_cli.py executable
+python pubmed_cli.py "cancer therapy"
+
+# With output file
+python pubmed_cli.py "COVID-19" --file covid_papers.csv
+
+# With debug information
+python pubmed_cli.py "diabetes" --debug
