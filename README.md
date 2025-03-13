@@ -1,5 +1,3 @@
-# python_fetchpaperproject
-
 # PubMed Papers Fetcher
 
 A Python tool to fetch research papers from PubMed and identify those with authors affiliated with pharmaceutical or biotech companies.
