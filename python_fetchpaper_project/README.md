@@ -25,7 +25,7 @@ The project is organized into two main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pubmed-papers-fetcher.git
+   git clone (https://github.com/Srujanakatla/python_fetchpaperproject)
    cd pubmed-papers-fetcher
    ```
 
